@@ -1,2 +1,2 @@
 # Maps
-Some mapas I made this last year 
+Some mapas and graphics I made this last year 
